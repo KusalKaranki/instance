@@ -1,2 +1,6 @@
 mgmt ip: 1.0.0.114
+<<<<<<< HEAD
 sdnip :1.2.3.4
+=======
+authserver:1.4.2.3
+>>>>>>> auth
